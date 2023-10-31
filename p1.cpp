@@ -1,4 +1,6 @@
 /*Write a C++ program that create a class – ‘Employee’ that has data members emp_id & emp_name and member function are getdata()[to input data] & putdata() [to output data]. Write a main function to create emp, an array of Empoyee objects. Accept and display the details of at least 10 employees. */
+//220130318038
+//Bhavy Bhuva
 #include<iostream>
 #include<string>
 using namespace std;
